@@ -7,8 +7,8 @@ Selamat datang di repositori ini! 🎉 Repositori ini berisi kumpulan jobsheet u
 Repositori ini terorganisir dengan rapi dalam folder jobsheet:
 
 ```
-OOP_2025/  
-│── jobsheet-01/  
+2025_PBO_TI1B/  
+│── Jobsheet-01/  
 │   ├── Praktikum_01_Tipe Dasar.py
 │   ├── Praktikum_02_Variabel dan Operasi Dasar.py
 │   ├── Praktikum_03_Percabangan.py
