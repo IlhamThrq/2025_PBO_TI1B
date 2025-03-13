@@ -8,19 +8,13 @@ Repositori ini terorganisir dengan rapi dalam folder jobsheet:
 
 ```
 OOP_2025/  
-│── jobsheet-1/  
-│   ├── latihan_1.py  
-│   ├── tugas_1.py  
-│  
-│── jobsheet-2/  
-│   ├── latihan_2.py  
-│   ├── tugas_2.py  
-│  
-│── jobsheet-3/  
-│   ├── latihan_3.py  
-│   ├── tugas_3.py  
-│  
-│── ...  
+│── jobsheet-01/  
+│   ├── Praktikum_01_Tipe Dasar.py
+│   ├── Praktikum_02_Variabel dan Operasi Dasar.py
+│   ├── Praktikum_03_Percabangan.py
+│   ├── Praktikum_04_Perulangan.py   
+│   ├── Program BMI.py
+│   ├── Program Cek Bilangan.py  
 │  
 └── README.md  
 ```
@@ -37,7 +31,7 @@ Setiap jobsheet memiliki file **latihan** untuk eksplorasi konsep OOP dan file *
 
 1. Clone repositori ini ke lokal:
    ```bash
-   git clone https://github.com/username/OOP_2025.git
+   git clone https://github.com/username/2025_PBO_TI1B.git
    ```
 2. Buka file yang diinginkan di **Google Colab** atau editor favoritmu:
    - Upload file ke Google Drive
@@ -46,7 +40,7 @@ Setiap jobsheet memiliki file **latihan** untuk eksplorasi konsep OOP dan file *
 
 ## 💡 Tentang Saya
 
-Repositori ini dibuat dan dikelola oleh **Muhammad Ilham Rijal Thaariq**, seorang mahasiswa **Teknik Informatika** yang antusias mengeksplorasi dunia **pemrograman dan teknologi**. 🚀
+Repositori ini dibuat dan dikelola oleh **Muhammad Ilham Rijal Thaariq**, seorang mahasiswa **POLITEKNIK NEGERI SEMARANG** dengan Jurusan **TEKNIK ELEKTRO** dan Program Studi **TEKNOLOGI REKAYASA KOMPUTER** yang antusias mengeksplorasi dunia **pemrograman dan teknologi**. 🚀
 
 ## ⚠️ Catatan Penting
 
